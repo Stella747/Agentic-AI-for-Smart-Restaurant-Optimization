@@ -1,0 +1,6 @@
+knowledge_base_name: 'RestaurantBookings'
+knowledge_base_description: 'bedrock-allow'
+kb_files_path: 'kb_files'
+table_name: 'RestaurantBookings'
+pk_item: 'booking_id'
+sk_item: 'customer_name'

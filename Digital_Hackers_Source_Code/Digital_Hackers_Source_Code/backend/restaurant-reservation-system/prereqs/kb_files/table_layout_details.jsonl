@@ -1,0 +1,34 @@
+{"text-metadata": {
+    "title": "Restaurant Tables Layout Details",
+    "description": "This table provides detailed information about various tables in the restaurant, including their ID, capacity, location, whether they are near a window, and the maximum party size they can accommodate.",
+    "source": "s3://resto-mgmt-syst-us-east-1-172017625337/table_layout_details.jsonl",
+    "schema": {
+        "TableID": "Unique identifier for the table",
+        "Capacity": "Maximum number of people the table can accommodate",
+        "Location": "Location of the table within the restaurant (e.g., Bar Area, Balcony, Garden View)",
+        "NearWindow": "Boolean indicating if the table is near a window",
+        "PartySize": "Maximum party size that can be accommodated at the table (e.g., <=2, <=4, <=6, <=8)"
+    },
+    "ingestionTimestamp": "2025-05-01T12:00:00Z"
+}}
+
+{"TableID": "T01", "Capacity": 2, "Location": "Bar Area", "NearWindow": false, "PartySize": "<=2"}
+{"TableID": "T02", "Capacity": 2, "Location": "Bar Area", "NearWindow": false, "PartySize": "<=2"}
+{"TableID": "T03", "Capacity": 2, "Location": "Bar Area", "NearWindow": false, "PartySize": "<=2"}
+{"TableID": "T04", "Capacity": 2, "Location": "Balcony", "NearWindow": true, "PartySize": "<=2"}
+{"TableID": "T05", "Capacity": 2, "Location": "Balcony", "NearWindow": true, "PartySize": "<=2"}
+{"TableID": "T06", "Capacity": 2, "Location": "Garden View", "NearWindow": true, "PartySize": "<=2"}
+{"TableID": "T07", "Capacity": 4, "Location": "Window Left", "NearWindow": true, "PartySize": "<=4"}
+{"TableID": "T08", "Capacity": 4, "Location": "Window Right", "NearWindow": true, "PartySize": "<=4"}
+{"TableID": "T09", "Capacity": 4, "Location": "Centre", "NearWindow": false, "PartySize": "<=4"}
+{"TableID": "T10", "Capacity": 4, "Location": "Centre", "NearWindow": false, "PartySize": "<=4"}
+{"TableID": "T11", "Capacity": 4, "Location": "Balcony", "NearWindow": true, "PartySize": "<=4"}
+{"TableID": "T12", "Capacity": 4, "Location": "Garden View", "NearWindow": true, "PartySize": "<=4"}
+{"TableID": "T13", "Capacity": 4, "Location": "Corner Back", "NearWindow": false, "PartySize": "<=4"}
+{"TableID": "T14", "Capacity": 6, "Location": "Window Left", "NearWindow": true, "PartySize": "<=6"}
+{"TableID": "T15", "Capacity": 6, "Location": "Window Right", "NearWindow": true, "PartySize": "<=6"}
+{"TableID": "T16", "Capacity": 6, "Location": "Balcony", "NearWindow": true, "PartySize": "<=6"}
+{"TableID": "T17", "Capacity": 6, "Location": "Garden View", "NearWindow": true, "PartySize": "<=6"}
+{"TableID": "T18", "Capacity": 6, "Location": "Corner Back", "NearWindow": false, "PartySize": "<=6"}
+{"TableID": "T19", "Capacity": 8, "Location": "Patio", "NearWindow": true, "PartySize": "<=8"}
+{"TableID": "T20", "Capacity": 8, "Location": "Patio", "NearWindow": true, "PartySize": "<=8"}

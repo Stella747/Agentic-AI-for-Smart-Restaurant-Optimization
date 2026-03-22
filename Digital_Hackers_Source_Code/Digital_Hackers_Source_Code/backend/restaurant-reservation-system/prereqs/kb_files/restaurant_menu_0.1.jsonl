@@ -1,0 +1,68 @@
+{"text-metadata": {
+    "title": "Restaurant Menu",
+    "description": "This file contains the restaurant menu with various meal categories, prices, and descriptions.",
+    "source": "s3://resto-mgmt-syst-us-east-1-172017625337/reservation_menu_0.1.jsonl",
+    "schema": {
+        "Meal Name": "Name of the meal",
+        "Category": "Category of the meal (e.g., Gyros, Baby Back Ribs)",
+        "Price (USD)": "Price of the meal in USD",
+        "Description": "Description of the meal and additional details and ingredients",
+    },
+    "ingestionTimestamp": "2025-05-01T12:00:00Z"
+}}
+
+{"Meal Name": "Gyros Plate", "Category": "Gyros", "Price (USD)": 12.5, "Description": "Served w/ Greek potatoes over a bed of rice pilaf or fries.", "Unnamed: 4": NaN}
+{"Meal Name": "Chicken Gyros Plate", "Category": "Gyros", "Price (USD)": 12.5, "Description": "Onion, tomato, homemade tzatziki sauce & pita bread.", "Unnamed: 4": NaN}
+{"Meal Name": "Half Slab", "Category": "Baby Back Ribs", "Price (USD)": 15, "Description": "Served w/ homemade Yukon whipped potatoes, garlic bread & coleslaw.", "Unnamed: 4": NaN}
+{"Meal Name": "Whole Slab", "Category": "Baby Back Ribs", "Price (USD)": 22, "Description": "Served w/ homemade Yukon whipped potatoes, garlic bread & coleslaw.", "Unnamed: 4": NaN}
+{"Meal Name": "Chicken Rib Combo", "Category": "Baby Back Ribs", "Price (USD)": 19, "Description": "Served w/ homemade Yukon whipped potatoes, garlic bread & coleslaw.", "Unnamed: 4": NaN}
+{"Meal Name": "Half Chicken", "Category": "Oven Roasted Chicken", "Price (USD)": 13, "Description": "Choice of Greek, BBQ or Plain. Served w/ garlic potatoes over a bed of rice pilaf, fresh vegetable garnish, pita bread & choice of soup or salad.", "Unnamed: 4": NaN}
+{"Meal Name": "Whole Chicken", "Category": "Oven Roasted Chicken", "Price (USD)": 18, "Description": "Choice of Greek, BBQ or Plain. Served w/ garlic potatoes over a bed of rice pilaf, fresh vegetable garnish, pita bread & choice of soup or salad.", "Unnamed: 4": NaN}
+{"Meal Name": "Grilled Chicken Breast Plate", "Category": "Oven Roasted Chicken", "Price (USD)": 13.5, "Description": "Choice of Greek, BBQ or Plain. Served w/ garlic potatoes over a bed of rice pilaf, fresh vegetable garnish, pita bread & choice of soup or salad.", "Unnamed: 4": NaN}
+{"Meal Name": "Chicken Souvlaki Plate", "Category": "Souvlaki (Skewers)", "Price (USD)": 13, "Description": "2 skewers of tender chicken pieces w/ onions, green & red peppers. Served w/ tzatziki sauce on the side.", "Unnamed: 4": NaN}
+{"Meal Name": "Filet Mignon Souvlaki Plate", "Category": "Souvlaki (Skewers)", "Price (USD)": 17, "Description": "2 skewers of tender filet pieces w/ onions, green & red peppers. Served w/ tzatziki sauce on the side.", "Unnamed: 4": NaN}
+{"Meal Name": "Pork Souvlaki Plate", "Category": "Souvlaki (Skewers)", "Price (USD)": 12, "Description": "3 skewers of tender pork pieces. Served w/ onions, tomato & tzatziki sauce on the side.", "Unnamed: 4": NaN}
+{"Meal Name": "Grilled Shrimp Souvlaki Plate", "Category": "Souvlaki (Skewers)", "Price (USD)": 18, "Description": "2 skewers of marinated grilled shrimp.", "Unnamed: 4": NaN}
+{"Meal Name": "Skirt Steak Dinner", "Category": "Steaks & Chops", "Price (USD)": 20, "Description": "9 oz. marinated & grilled skirt steak.", "Unnamed: 4": NaN}
+{"Meal Name": "Pork Chop Dinner", "Category": "Steaks & Chops", "Price (USD)": 19.5, "Description": "2 8oz French cut chops.", "Unnamed: 4": NaN}
+{"Meal Name": "Lamb Rack Dinner", "Category": "Steaks & Chops", "Price (USD)": 29.5, "Description": "Full rack.", "Unnamed: 4": NaN}
+{"Meal Name": "Whitefish Dinner", "Category": "Seafood", "Price (USD)": 18, "Description": "Served w/ Greek potatoes over a bed of rice pilaf, fresh vegetable garnish, garlic bread & choice of soup or salad.", "Unnamed: 4": NaN}
+{"Meal Name": "Grilled Salmon Dinner", "Category": "Seafood", "Price (USD)": 18, "Description": "Served w/ Greek potatoes over a bed of rice pilaf, fresh vegetable garnish, garlic bread & choice of soup or salad.", "Unnamed: 4": NaN}
+{"Meal Name": "Avgolemono Chicken Noodle or Lentil", "Category": "Soups", "Price (USD)": 4.5, "Description": NaN, "Unnamed: 4": "-"}
+{"Meal Name": "Homemade Spinach Pie", "Category": "Soups", "Price (USD)": 9, "Description": "Served w/ Greek potatoes over rice pilaf, & homemade tzatziki sauce.", "Unnamed: 4": NaN}
+{"Meal Name": "Waffle Fries", "Category": "On the Side", "Price (USD)": 3, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Hummus", "Category": "On the Side", "Price (USD)": 5, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Spicy Feta Waffle Fries", "Category": "On the Side", "Price (USD)": 4, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Coleslaw Small", "Category": "On the Side", "Price (USD)": 1, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Coleslaw Large", "Category": "On the Side", "Price (USD)": 3, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Merkits Waffle Fries", "Category": "On the Side", "Price (USD)": 4, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Homemade Soup", "Category": "On the Side", "Price (USD)": 4.5, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Sweet Waffle Fries", "Category": "On the Side", "Price (USD)": 4, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Vegetable of the Day", "Category": "On the Side", "Price (USD)": 4.5, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Onion Rings", "Category": "On the Side", "Price (USD)": 4, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Rice Pilaf", "Category": "On the Side", "Price (USD)": 4.5, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Saganaki Cheese Curds", "Category": "On the Side", "Price (USD)": 6, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Greek Potatoes", "Category": "On the Side", "Price (USD)": 4.5, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Garlic Bread", "Category": "On the Side", "Price (USD)": 2, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Homemade Yukon", "Category": "On the Side", "Price (USD)": "-", "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Pita Bread", "Category": "On the Side", "Price (USD)": 1, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Whipped Potatoes", "Category": "On the Side", "Price (USD)": 4.5, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Cheeseburger & fries or fruit", "Category": "For the Kids", "Price (USD)": 8, "Description": "Includes Drink (milk, juice or fountain soda)", "Unnamed: 4": NaN}
+{"Meal Name": "Gyros (beef or chicken) & fries or fruit", "Category": "For the Kids", "Price (USD)": 7.5, "Description": "Includes Drink (milk, juice or fountain soda)", "Unnamed: 4": NaN}
+{"Meal Name": "Hot Dog & fries or fruit", "Category": "For the Kids", "Price (USD)": 7, "Description": "Includes Drink (milk, juice or fountain soda)", "Unnamed: 4": NaN}
+{"Meal Name": "Grilled Cheese Sandwich & fries or fruit", "Category": "For the Kids", "Price (USD)": 7, "Description": "Includes Drink (milk, juice or fountain soda)", "Unnamed: 4": NaN}
+{"Meal Name": "Chicken Tenders & fries or fruit", "Category": "For the Kids", "Price (USD)": 7, "Description": "Includes Drink (milk, juice or fountain soda)", "Unnamed: 4": NaN}
+{"Meal Name": "Shells Cheese (add fruit +2)", "Category": "For the Kids", "Price (USD)": 6.5, "Description": "Includes Drink (milk, juice or fountain soda)", "Unnamed: 4": NaN}
+{"Meal Name": "Spaghetti w/ Meat Sauce or Marinara (add fruit +2)", "Category": "For the Kids", "Price (USD)": 6.5, "Description": "Includes Drink (milk, juice or fountain soda)", "Unnamed: 4": NaN}
+{"Meal Name": "Baklava", "Category": "Desserts", "Price (USD)": 3.5, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Rice Pudding", "Category": "Desserts", "Price (USD)": 3.5, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Fresh Baked Chocolate Chip Cookies", "Category": "Desserts", "Price (USD)": 1.5, "Description": "1.5 each", "Unnamed: 4": NaN}
+{"Meal Name": "Chocolate Cake", "Category": "Desserts", "Price (USD)": 4.5, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Rainbow Cake", "Category": "Desserts", "Price (USD)": 4.5, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Carrot Cake", "Category": "Desserts", "Price (USD)": 5, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Fudge Brownie", "Category": "Desserts", "Price (USD)": 3.5, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Hand Spun Milk Shakes", "Category": "Desserts", "Price (USD)": 4, "Description": "Nutella, Vanilla, Oreo, Strawberry or Chocolate", "Unnamed: 4": NaN}
+{"Meal Name": "Fountain", "Category": "Drinks", "Price (USD)": 2.5, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Coffee", "Category": "Drinks", "Price (USD)": 2, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Bottled Water", "Category": "Drinks", "Price (USD)": 2, "Description": "-", "Unnamed: 4": NaN}
+{"Meal Name": "Hot Tea", "Category": "Drinks", "Price (USD)": 2, "Description": "-", "Unnamed: 4": NaN}
