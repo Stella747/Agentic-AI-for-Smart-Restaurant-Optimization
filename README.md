@@ -26,9 +26,6 @@ Built an **Agentic AI system** that:
 ## 🏗️ Architecture
 ![Architecture](assets/architecture_diagram.png)
 
-## 📂 Project Structure
-(Explain folders briefly)
-
 ## 📈 Results
 - Improved reservation prediction accuracy
 - Scalable cloud-based architecture
