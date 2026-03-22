@@ -23,9 +23,6 @@ Built an **Agentic AI system** that:
 - Interactive UI mockups (Figma)
 - End-to-end pipeline from data → model → output
 
-## 🏗️ Architecture
-![Architecture](assets/architecture_diagram.png)
-
 ## 📈 Results
 - Improved reservation prediction accuracy
 - Scalable cloud-based architecture
@@ -36,7 +33,3 @@ Built an **Agentic AI system** that:
 - Built prediction models
 - Contributed to system architecture
 
-## 📎 Hackathon Presentation
-[presentation/hackathon_ppt.pdf]
-
----
